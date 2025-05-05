@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.34.1](https://github.com/release-plz/release-plz/compare/release_plz_core-v0.34.0...release_plz_core-v0.34.1) - 2025-05-05
+
+### Other
+
+- test complex scenarios where dependent crates in same repo are updated ([#2196](https://github.com/release-plz/release-plz/pull/2196))
+
 ## [0.34.0](https://github.com/release-plz/release-plz/compare/release_plz_core-v0.33.8...release_plz_core-v0.34.0) - 2025-04-18
 
 ### Added
